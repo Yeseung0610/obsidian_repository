@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "7c0f2b414d4c5faf",
+    "type": "split",
+    "children": [
+      {
+        "id": "19bd9759e89f9447",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77372d2fb15e7535",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개발 공부/컨퍼런스 - 원티드 High Five 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "컨퍼런스 - 원티드 High Five 2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c0e81ca517bd1c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "610171ff77d87fdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf5d2a3b7c4df2d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e0d1b7805c9c06f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4cca9ed132de05d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4f732ad2715c8770",
+    "type": "split",
+    "children": [
+      {
+        "id": "dedd51b6008b4188",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "847eb828256c8aac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "개발 공부/컨퍼런스 - 원티드 High Five 2025.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 컨퍼런스 - 원티드 High Five 2025"
+            }
+          },
+          {
+            "id": "022dbb871f969339",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "개발 공부/컨퍼런스 - 원티드 High Five 2025.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 컨퍼런스 - 원티드 High Five 2025"
+            }
+          },
+          {
+            "id": "6ae2f9ef7546c0ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "debd5ddf459845f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "개발 공부/컨퍼런스 - 원티드 High Five 2025.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 컨퍼런스 - 원티드 High Five 2025"
+            }
+          },
+          {
+            "id": "dd7527a246ad16b2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "dd7527a246ad16b2",
+  "lastOpenFiles": [
+    "개발 공부/컨퍼런스 - 원티드 High Five 2025.md",
+    "Pasted image 20250520170910.png",
+    "Untitled.md",
+    "Untitled.canvas",
+    "2025-05-20.md",
+    "개발 공부/컨퍼런스 - 원티드 High Five 2025 시간표.png",
+    "개발 공부",
+    "Welcome.md"
+  ]
+}
