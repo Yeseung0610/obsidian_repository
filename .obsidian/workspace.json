@@ -11,14 +11,12 @@
             "id": "77372d2fb15e7535",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "01. 개발 공부/컨퍼런스 - 원티드 High Five 2025.md",
-                "mode": "source",
-                "source": false
+                "file": "00. resources/컨퍼런스 - 원티드 High Five 2025 시간표.png"
               },
-              "icon": "lucide-file",
-              "title": "컨퍼런스 - 원티드 High Five 2025"
+              "icon": "lucide-image",
+              "title": "컨퍼런스 - 원티드 High Five 2025 시간표"
             }
           }
         ]
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 개발 공부/컨퍼런스 - 원티드 High Five 2025.md",
+                "file": "00. resources/컨퍼런스 - 원티드 High Five 2025 시간표.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 컨퍼런스 - 원티드 High Five 2025"
+              "title": "Outline of 컨퍼런스 - 원티드 High Five 2025 시간표"
             }
           },
           {
@@ -179,10 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf5d2a3b7c4df2d7",
+  "active": "77372d2fb15e7535",
   "lastOpenFiles": [
-    "00. resources/Pasted image 20250520170910.png",
     "01. 개발 공부/컨퍼런스 - 원티드 High Five 2025.md",
+    "00. resources/Pasted image 20250520170910.png",
     "00. resources/컨퍼런스 - 원티드 High Five 2025 시간표.png",
     "00. resources",
     "Untitled.md",
