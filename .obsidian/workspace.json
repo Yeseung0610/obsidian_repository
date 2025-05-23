@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발 공부/컨퍼런스 - 원티드 High Five 2025.md",
+                "file": "01. 개발 공부/컨퍼런스 - 원티드 High Five 2025.md",
                 "mode": "source",
                 "source": false
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개발 공부/컨퍼런스 - 원티드 High Five 2025.md",
+                "file": "01. 개발 공부/컨퍼런스 - 원티드 High Five 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -179,15 +179,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "debd5ddf459845f5",
+  "active": "cf5d2a3b7c4df2d7",
   "lastOpenFiles": [
-    "개발 공부/컨퍼런스 - 원티드 High Five 2025.md",
-    "Pasted image 20250520170910.png",
+    "00. resources/Pasted image 20250520170910.png",
+    "01. 개발 공부/컨퍼런스 - 원티드 High Five 2025.md",
+    "00. resources/컨퍼런스 - 원티드 High Five 2025 시간표.png",
+    "00. resources",
     "Untitled.md",
     "Untitled.canvas",
     "2025-05-20.md",
-    "개발 공부/컨퍼런스 - 원티드 High Five 2025 시간표.png",
-    "개발 공부",
+    "01. 개발 공부",
     "Welcome.md"
   ]
 }
