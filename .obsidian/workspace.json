@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77372d2fb15e7535",
+  "active": "dd7527a246ad16b2",
   "lastOpenFiles": [
     "Untitled.canvas",
     "01. 개발 공부/컨퍼런스 - 원티드 High Five 2025.md",
