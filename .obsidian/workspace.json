@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 개발 공부/컨퍼런스 - 원티드 High Five 2025.md",
+                "file": "02. Datoz/01. 회의록/후지 제록스.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "컨퍼런스 - 원티드 High Five 2025"
+              "title": "후지 제록스"
             }
           }
         ]
@@ -179,10 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd7527a246ad16b2",
+  "active": "77372d2fb15e7535",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "01. 개발 공부/컨퍼런스 - 원티드 High Five 2025.md",
+    "02. Datoz/01. 회의록/후지 제록스.md",
+    "02. Datoz/01. 회의록",
+    "02. Datoz",
+    "Untitled.canvas",
     "00. resources/컨퍼런스 - 원티드 High Five 2025 시간표.png",
     "00. resources/Pasted image 20250520170910.png",
     "00. resources",
