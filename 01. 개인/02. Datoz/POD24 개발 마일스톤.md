@@ -12,6 +12,7 @@
 	- POD24 Front-End 프로젝트 기본 셋팅
 		- 프로젝트 기본 셋팅
 		- 공통 컴포넌트 및 기능 개발
+	- Domain 연결되어있는 이전 레거시 활용하여 Docker 셋팅
 - **7월**
 	- POD24 Back-End 개발
 		- 회원가입, 로그인 (Naver, Google)
