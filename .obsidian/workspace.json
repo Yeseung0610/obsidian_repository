@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 개인/02. Datoz/POD24 개발 마일스톤.md",
+                "file": "01. 개인/02. Datoz/01. 회의록/06. 30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "POD24 개발 마일스톤"
+              "title": "06. 30"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "77372d2fb15e7535",
   "lastOpenFiles": [
-    "01. 개인/02. Datoz/01. 회의록/후지 제록스.md",
     "01. 개인/02. Datoz/POD24 개발 마일스톤.md",
+    "01. 개인/02. Datoz/01. 회의록/06. 30.md",
+    "01. 개인/02. Datoz/01. 회의록/후지 제록스.md",
     "04. 기능경기대회",
     "03. 디자인",
     "02. 개발",
