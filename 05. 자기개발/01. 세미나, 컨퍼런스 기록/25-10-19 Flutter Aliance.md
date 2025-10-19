@@ -52,3 +52,10 @@ RouteAware
 
 ---
 
+### 3. Why MapLIbre: Flexibility and the Freedom to Unlock Full Potential in Flutter Apps with Maps
+##### Ryutaro Iseki : YUMEMI Inc.
+
+- **현재 개발 중인 서비스**
+	- 전세계에 있는 음식에 대한 유저의 기록을 남기게 하는 애플리케이션
+
+현재 사용 중인 map 라이브러리 : maplibre_gl
