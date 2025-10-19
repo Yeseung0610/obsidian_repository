@@ -66,3 +66,4 @@ RouteAware
 ### 4. AI Debate Club
 ##### Sasha Denisov | EPAM
 
+##### Firebase Vertex 
