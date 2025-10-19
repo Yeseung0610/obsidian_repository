@@ -32,7 +32,7 @@ Persistence Layer를 어떻게 번역할까?
 ---
 
 ### 2. Less state, More flutter
-##### nine | 
+##### nine | Flutter Seoul
 
 **소셜 네트워킹 애플리케이션에서 상태관리 Library없이 State less 방식으로 위젯을 관리한 경험 공유**
 - 해당 기능이 필요했던 이유
@@ -59,3 +59,10 @@ RouteAware
 	- 전세계에 있는 음식에 대한 유저의 기록을 남기게 하는 애플리케이션
 
 현재 사용 중인 map 라이브러리 : maplibre_gl
+
+
+--- 
+
+### 4. AI Debate Club
+##### Sasha Denisov | EPAM
+
