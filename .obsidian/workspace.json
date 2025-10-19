@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:MobileApplicationsDevelopments",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf5d2a3b7c4df2d7",
+  "active": "f53fda677a3ea644",
   "lastOpenFiles": [
     "05. 자기개발/01. 세미나, 컨퍼런스 기록/25-07-26 그로스로그 - 개발 세미나.md",
     "05. 자기개발/01. 세미나, 컨퍼런스 기록/25-10-19 Flutter Aliance.md",

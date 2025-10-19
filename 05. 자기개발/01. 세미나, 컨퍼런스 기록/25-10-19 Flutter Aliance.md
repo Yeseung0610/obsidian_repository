@@ -1,3 +1,8 @@
+---
+tags:
+  - 컨퍼런스
+  - Flutter
+---
 
 ### 1. Flutter 기술 번역, AI 리뷰어와 함께 완성하기
 ##### 유경욱 | Flutter Seoul
@@ -24,4 +29,5 @@ Persistence Layer를 어떻게 번역할까?
 4. **비판적 수용 및 최종 결정**
    Critical Adoption: AI의 제안을 맹신하지 않고, 비판적으로 검토해 최종 결정을 내리는 것은 나의 몫
 
---
+---
+
