@@ -80,7 +80,13 @@ RouteAware
 
 ##### Server Based AI vs Edge AI
 
-|           | Server Based AI                          | Edge AI |
-| --------- | ---------------------------------------- | ------- |
-| Price     | EC2 월 사용량<br>AI Token 비용<br>아웃바운드 트래픽 비용 |         |
-| Analytics |                                          |         |
+|           | Server Based AI                          | Edge AI     |
+| --------- | ---------------------------------------- | ----------- |
+| Price     | EC2 월 사용량<br>AI Token 비용<br>아웃바운드 트래픽 비용 | AI Token 비용 |
+| Analytics | 기본 제공 X, 자체 구현 필요                        | 기본 제공 O     |
+
+---
+
+### 5. Riverpod 3.0
+##### Remi Rouseelet | Author of Riverpod
+
