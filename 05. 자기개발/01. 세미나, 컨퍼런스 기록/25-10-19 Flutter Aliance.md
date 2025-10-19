@@ -31,3 +31,11 @@ Persistence Layer를 어떻게 번역할까?
 
 ---
 
+### 2. Less state, More flutter
+##### nine | 
+
+**소셜 네트워킹 애플리케이션에서 상태관리 Library없이 State less 방식으로 위젯을 관리한 경험 공유**
+- 해당 기능이 필요했던 이유
+	- 3초 길이의 짧은 숏폼 비디오를 제공함
+	- Gifs와 같이 리소스를 많이 사용하는 이미지
+	- 
