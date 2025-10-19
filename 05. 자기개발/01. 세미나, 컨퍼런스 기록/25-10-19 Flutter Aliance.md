@@ -90,3 +90,7 @@ RouteAware
 ### 5. Riverpod 3.0
 ##### Remi Rouseelet | Author of Riverpod
 
+##### Mutations
+상태관리에서 있어, 현재 Store로 처리하고 있는 상태들을 Mutations으로 정리하도록 리팩토링하면 깔끔하게 Single tone 구조를 사용할 수 있을 것으로 생각 됨
+
+Auto
