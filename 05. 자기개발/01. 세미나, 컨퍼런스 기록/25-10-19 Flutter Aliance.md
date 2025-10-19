@@ -43,5 +43,8 @@ Persistence Layer를 어떻게 번역할까?
 ##### 문제 상황
 - 비디오가 백그라운드 환경에서도 계속 동작함
 - 해결 : Navigator를 사용하여, video 매니지먼트를 Navigator 이동에 따라 자동으로 pause, play 처리하도록 함
-	- 사용 함수 : didPushNext()
-	  new route로 푸시가 가능할 경우 현재  현재 라우트가 
+- 사용한 함수 : didPushNext()
+- 제한 사항 : 비디오가 있는 페이지 기준이 아닌 비디오를 기준으로 동작하여야함
+
+
+RouteAware
