@@ -66,13 +66,16 @@ RouteAware
 ### 4. AI Debate Club
 ##### Sasha Denisov | EPAM
 
-##### Firebase Vertex AI
-- **지원 AI Model**
+##### Server Based AI
+- REST API
+- Open SDK (Only can use Supported Platform)
+
+##### Edge AI
+- **Firebase Vertex AI**
 	- Gemini API
 	- Imagen API
+- **GGUF + llama.cpp**
+	- Plugin llama_cpp_dart
+	- Plugin llama_cpp
 
-**GGUF + llama.cpp**
-- Plugin llama_cpp_dart
-- Plugin llama_cpp
-
-- 촉촉한코 -> ChatGPT API 사용하는 NLP 서버랑 동작들을 Firebase AI Logic으로 옮기는 것은 어떨까? AI monitoring dashboard 가 있어서 사용량, 작업 내용 등을 추적할 수 있고, Edge AI 기반으로 동작하게 작업할 수 있을 것으로 기대됨 
+##### Server Based AI vs Edge AI
