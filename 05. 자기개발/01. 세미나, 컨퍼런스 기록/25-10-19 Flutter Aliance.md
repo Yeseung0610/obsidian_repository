@@ -91,13 +91,15 @@ RouteAware
 ##### Remi Rouseelet | Author of Riverpod
 
 ##### Mutations
-상태관리에서 있어, 현재 Store로 처리하고 있는 상태들을 Mutations으로 정리하도록 리팩토링하면 깔끔하게 Single tone 구조를 사용할 수 있을 것으로 생각 됨
+현재 Store로 처리하고 있는 상태들을 Mutations으로 정리하도록 리팩토링하면 깔끔하게 Single tone 구조를 사용할 수 있을 것으로 생각 됨
 
 ##### NotifierProvider.retry
 retry 기능을 Automatic하게 관리할 수 있는 callback 함수로 보여짐. 추후 확인 필요
 
 #### 상태 관리
-- StreamProvider
+- **StreamProvider**
 	- watch 중인 consumer가 있는지 없는지 여부에 따라 자동으로 pause/resume 상태를 전환하는 것으로 보여짐
 	- 상태 관리에 용이하며, 메모리를 절약할 수 있다
-- Notifier.build
+- **Notifier.build**
+	- build 함수 호출 시 provider는 Recreated된다. (새로운 인스턴스로 재생성)
+- **Provider의 상태관리**
