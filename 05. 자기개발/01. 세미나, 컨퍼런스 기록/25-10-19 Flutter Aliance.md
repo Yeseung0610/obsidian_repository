@@ -107,4 +107,5 @@ retry 기능을 Automatic하게 관리할 수 있는 callback 함수로 보여�
 
 ##### Custom Listenable
 - SyncProviderTransformerMixin
-	- custom한 Provider Notifier
+	- custom한 Provider Notifier를 생성할 수 있음
+	- ex. ref.read(someProvider.customNotifier).someFunction();
