@@ -80,6 +80,7 @@ RouteAware
 
 ##### Server Based AI vs Edge AI
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
+|           | Server Based AI                          | Edge AI |
+| --------- | ---------------------------------------- | ------- |
+| Price     | EC2 월 사용량<br>AI Token 비용<br>아웃바운드 트래픽 비용 |         |
+| Analytics |                                          |         |
