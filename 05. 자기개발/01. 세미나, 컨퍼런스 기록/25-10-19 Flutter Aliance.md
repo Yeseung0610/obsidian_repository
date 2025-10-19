@@ -68,7 +68,7 @@ RouteAware
 
 ##### Server Based AI
 - REST API
-- Open SDK (Only can use Supported Platform)
+- Open SDK (Only can use supported platform)
 
 ##### Edge AI
 - **Firebase Vertex AI**
@@ -79,3 +79,7 @@ RouteAware
 	- Plugin llama_cpp
 
 ##### Server Based AI vs Edge AI
+
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
