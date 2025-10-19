@@ -103,3 +103,8 @@ retry 기능을 Automatic하게 관리할 수 있는 callback 함수로 보여�
 - **Notifier.build**
 	- build 함수 호출 시 provider는 Recreated된다. (새로운 인스턴스로 재생성)
 - **Provider의 상태관리**
+	- == (Equals)를 사용해 hashcode 값이 동일 할 경우 상태를 변경하지 않고, 값을 그대로 유지하는 기능이 기본적으로 내장되어있음
+
+##### Custom Listenable
+- SyncProviderTransformerMixin
+	- custom한 Provider Notifier
