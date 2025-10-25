@@ -18,3 +18,11 @@
 - "1 week expected", "If you can assign this hob for me" 등 신뢰가 쌓이지 않은 상태에서 작업을 제의하는 것은 프로젝트의 방향성과 옳지 않을 수 있음
 
 **세 번째 PR #25 (실패 경험)**
+- https://github.com/thorvg/thorvg.flutter/pull/25
+- FFI 관련 지식에 대한 공부와 각 플랫폼 별로 정적 링킹에 관한 부분에 해결하기 어려운 이슈를 만남
+- 어떤 문제가 있었는지, 어떤 부분들을 시도했었는지 이후 기여자를 위해 기록한 후 PR을 닫음
+
+**네 번째 PR #31 (장점을 살린 기여 경험)**
+- https://github.com/thorvg/thorvg.flutter/pull/31
+- 스스로 배경지식을 토대로 이슈 보고 > 문제 해결 > 기여를 경험
+- Flutter의 FinalRenderObject를 사용해 
