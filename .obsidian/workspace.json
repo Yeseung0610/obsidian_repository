@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "19bd9759e89f9447",
+        "id": "af01953598384112",
         "type": "tabs",
         "children": [
           {
-            "id": "77372d2fb15e7535",
+            "id": "2655347d419a1f06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 개인/02. Datoz/POD24 개발 마일스톤.md",
+                "file": "05. 자기개발/01. 세미나, 컨퍼런스 기록/Flutter Seoul - Flutter Korea (25. 10. 25).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "POD24 개발 마일스톤"
-            }
-          },
-          {
-            "id": "f53fda677a3ea644",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05. 자기개발/01. 세미나, 컨퍼런스 기록/25-10-19 Flutter Aliance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "25-10-19 Flutter Aliance"
+              "title": "Flutter Seoul - Flutter Korea (25. 10. 25)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:MobileApplicationsDevelopments",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,12 +180,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f53fda677a3ea644",
+  "active": "2655347d419a1f06",
   "lastOpenFiles": [
+    "05. 자기개발/01. 세미나, 컨퍼런스 기록/컨퍼런스 - 원티드 High Five 2025.md",
     "05. 자기개발/01. 세미나, 컨퍼런스 기록/25-07-26 그로스로그 - 개발 세미나.md",
     "05. 자기개발/01. 세미나, 컨퍼런스 기록/25-10-19 Flutter Aliance.md",
-    "05. 자기개발/01. 세미나, 컨퍼런스 기록/컨퍼런스 - 원티드 High Five 2025.md",
+    "05. 자기개발/01. 세미나, 컨퍼런스 기록/Flutter Seoul - Flutter Korea (25. 10. 25).md",
     "01. 개인/02. Datoz/POD24 개발 마일스톤.md",
+    "Untitled 1.base",
+    "Untitled.canvas",
+    "Untitled.base",
     "01. 개인/02. Datoz/01. 회의록/후지 제록스.md",
     "01. 개인/02. Datoz/01. 회의록/06. 30.md",
     "04. 기능경기대회",
@@ -211,13 +199,11 @@
     "05. 자기개발",
     "01. 개인/02. Datoz/01. 회의록",
     "01. 개인/02. Datoz",
-    "Untitled.canvas",
     "00. resources/컨퍼런스 - 원티드 High Five 2025 시간표.png",
     "00. resources/Pasted image 20250520170910.png",
     "00. resources",
     "Untitled.md",
     "2025-05-20.md",
-    "05. 자기개발/01. 세미나, 컨퍼런스 기록",
     "Welcome.md"
   ]
 }
