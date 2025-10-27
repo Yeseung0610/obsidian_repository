@@ -2,6 +2,8 @@
 tags:
   - 컨퍼런스
   - Flutter
+  - Developments
+  - MobileApp
 ---
 
 ### 1. Flutter 기술 번역, AI 리뷰어와 함께 완성하기

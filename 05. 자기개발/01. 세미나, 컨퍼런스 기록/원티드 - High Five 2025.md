@@ -2,7 +2,7 @@
 tags:
   - 컨퍼런스
   - 원티드
-  - 개발
+  - Developments
 ---
 
 ![[컨퍼런스 - 원티드 High Five 2025 시간표.png]]
