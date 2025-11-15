@@ -142,27 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 개발 공부/컨퍼런스 - 원티드 High Five 2025.md",
+                "file": "06. 자기개발/01. 세미나, 컨퍼런스 기록/원티드 - High Five 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 컨퍼런스 - 원티드 High Five 2025"
-            }
-          },
-          {
-            "id": "dd7527a246ad16b2",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of 원티드 - High Five 2025"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -180,7 +170,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f004ceb549cec80f",
+  "active": "debd5ddf459845f5",
   "lastOpenFiles": [
     "06. 자기개발/01. 세미나, 컨퍼런스 기록/Flutter Seoul - Flutter Aliance (25. 10. 19).md",
     "06. 자기개발/01. 세미나, 컨퍼런스 기록/원티드 - High Five 2025.md",
